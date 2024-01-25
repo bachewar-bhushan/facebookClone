@@ -10,4 +10,4 @@ After cloning the repository, write "npm install" in the terminal to install the
 ### Usage
 To run the project locally, use the following command:
 "npm run start"
-This will start the development server, and you can view the project at http://localhost:3000.
+
